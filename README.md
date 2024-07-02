@@ -26,5 +26,5 @@ AVR Library: Standard C library for AVR microcontrollers, providing functions fo
 Hardware:-
 
 Microcontroller:  AVR-based microcontroller ( ATmega16U4/ATmega32U4).
-PWM-capable Fan: Fan with PWM input for speed control.
+PWM-controllable Fan: Fan with PWM input for speed control.
 
