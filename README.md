@@ -4,7 +4,7 @@
 <h2>RPM Calculation and PWM-Based Fan Control</h2>
 
 <h3>Overview</h3>
-<p>This project implements an RPM (Revolutions Per Minute) calculation system and a PWM (Pulse Width Modulation) based fan control mechanism for an embedded system. A median filter is implemented to obtain stable RPM output.</p>
+<p>This project implements an RPM (Revolutions Per Minute) calculation system and a PWM (Pulse Width Modulation) based fan speed control mechanism for an embedded system. A median filter is implemented to obtain stable RPM output.</p>
 
 <h3>Tech Stack</h3>
 
@@ -45,7 +45,7 @@
 <ul>
   <li><strong>Microcontroller:</strong>
     <ul>
-      <li>AVR-based microcontroller (ATmega16U4/ATmega32U4).</li>
+      <li>AVR-based microcontroller (ATmega32U4).</li>
     </ul>
   </li>
   <li><strong>PWM-controllable Fan:</strong>
